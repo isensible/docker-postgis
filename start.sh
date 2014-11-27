@@ -5,7 +5,7 @@ CONF="/etc/postgresql/9.3/main/postgresql.conf"
 POSTGRES="/usr/lib/postgresql/9.3/bin/postgres"
 INITDB="/usr/lib/postgresql/9.3/bin/initdb"
 USERNAME="postgres"
-PASSWORD="sBK^nd5T2EaVXv+uwGe9?s"
+PASS="sBK^nd5T2EaVXv+uwGe9?s"
 
 # test if DATADIR is existent
 if [ ! -d $DATADIR ]; then
