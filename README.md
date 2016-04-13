@@ -11,7 +11,7 @@ This Dockerfile creates a container running PostGIS 2.1 in PostgreSQL 9.3
 
 ## Install
 
-- `docker build -t postgis:2.1 .` or `docker build -t postgis:2.1 github.com/helmi03/docker-postgis.git`
+- `docker build -t postgis:2.1 .` or `docker build -t postgis:2.1 github.com/isensible/docker-postgis.git`
 - `docker run -d postgis:2.1`
 
 
